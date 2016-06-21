@@ -31,11 +31,11 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://imgur.com/xC5eKXW' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://imgur.com/xQxvuji' title='ToDo' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
-Link to GIF: http://imgur.com/xC5eKXW
+Link to GIF: http://imgur.com/xQxvuji
 
 ## Notes
 
